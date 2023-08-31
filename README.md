@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lupass93
-- 👀 I’m interested in DevOps, Automation, Golang, Cluster Architecture and Blockchain
-- 🌱 I’m currently learning DevOps skills
+- 👀 I’m interested in Cloud, Cloud-Native, Solutions Architecture, DevOps and Kubernetes.
 - 📫 How to reach me: lupass93@gmail.com
 
 <!---
